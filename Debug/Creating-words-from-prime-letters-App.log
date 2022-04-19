@@ -1,0 +1,6 @@
+﻿  Creating-words-from-prime-letters-App.cpp
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Creating-words-from-prime-letters-App\Creating-words-from-prime-letters-App\Creating-words-from-prime-letters-App.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Creating-words-from-prime-letters-App\Creating-words-from-prime-letters-App\Creating-words-from-prime-letters-App.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Creating-words-from-prime-letters-App\Creating-words-from-prime-letters-App\Creating-words-from-prime-letters-App.cpp(6,12): warning C4101: 'y': unreferenced local variable
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Creating-words-from-prime-letters-App\Creating-words-from-prime-letters-App\Creating-words-from-prime-letters-App.cpp(6,9): warning C4101: 'x': unreferenced local variable
+  Creating-words-from-prime-letters-App.vcxproj -> C:\Users\taste\Desktop\repos\C++ Uygulamaları\Creating-words-from-prime-letters-App\Debug\Creating-words-from-prime-letters-App.exe
